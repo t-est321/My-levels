@@ -1,0 +1,8 @@
+{
+  "name":"#b4ffffffSandbox #ff0000ff02",
+  "descriptions":["  [SYSTEM]    #ffff00ffWarning#ffffffff: Too many variables!  "],
+  "information":"variables: 38",
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":1,"silver":0,"gold":0}
+}
