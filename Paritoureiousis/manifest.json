@@ -1,0 +1,8 @@
+{
+  "name": "#50ff75ffP#50f28cffa#50e6a3ffr#51d9baffi#51cdd1fft#51c0e8ffo#52b4ffffu#46a0ffffr#3a8cffffe#2e78ffffi#2264ffffo#2f53ffffu#3c42ffffs#4931ffffi#5321ffffs",
+  "descriptions": ["\n#00da00ff */ #ffffffffThe difficulty seems #18ff18ffeasy#ffffffff, but it's actually #ff1818ffcomplicated #00da00ff/* #ffffffff\n"],
+  "information": "Update date: 2026-04-12\nInformation: update particle trail, remove text hud",
+  "entry_point": "level.lua",
+  "has_score_leaderboard": true,
+  "rank_thresholds_1p": {"bronze":65250, "silver":135750, "gold":172350}
+}
