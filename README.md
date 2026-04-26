@@ -4,3 +4,5 @@ This project, including all Lua scripts and level data, is the exclusive propert
 
 ## Restrictions:
 * ❌ No Reproduction: You may not copy, modify, or distribute any part of this code.
+
+Allowed: Hupergenus12, mxx987
