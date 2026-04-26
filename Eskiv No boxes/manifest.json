@@ -1,0 +1,8 @@
+{
+    "name":"#20ff75ffEskiv #ff2520ffNo boxes",
+    "descriptions":["Wait/Survive #ff0000ff3 #ffffffffminutes"],
+    "information":"Thanks #4f599affa#9b5474ffr#d54040fft#ec7d38ffi#ffca3fffe#ffffffffkra for helping make the shield bonus and background! #ffffff30(difficulty: HARD)",
+    "entry_point":"level.lua",
+    "has_score_leaderboard":true,
+    "rank_thresholds_1p":{"bronze":1300, "silver":2800, "gold":6000}
+  }
