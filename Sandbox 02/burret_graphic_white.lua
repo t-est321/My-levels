@@ -1,7 +1,6 @@
-local a,b,c,c1 = 0,16,-16,0xffffffff
+local a,b,c = 0,16,-16
 meshes = {{
-  vertexes = {{a,b},{a,c},{b,a},{c,a},{a,a,b},{a,a,c}},
-  colors = {c1,c1,c1,c1,c1,c1},
-  segments = {{0,1},{2,3},{4,5}}
+  vertexes = {{a,c},{b,a},{a,b},{c,a}},
+  segments = {{0,1,2},{1,3}}
 }}
--- var: 4
+-- var: 3
