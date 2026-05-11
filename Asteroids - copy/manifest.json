@@ -1,0 +1,8 @@
+{
+  "name": "#d5d5d5ffAsteroids#ffffffff - copy",
+  "descriptions": ["Euclidean space is overrated"],
+  "information":"Original level:Pseudo-Infinity",
+  "entry_point": "level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":70000, "silver":120000, "gold":150000}
+}
