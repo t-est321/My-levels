@@ -1,1 +1,1 @@
-Allowed: ALL
+Allowed: everyone
