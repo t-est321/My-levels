@@ -1,0 +1,6 @@
+{
+    "name":"#ff7000ffFury #fffffffftimer",
+    "descriptions":["Loading... Please wait"],
+    "entry_point":"level.lua",
+    "has_score_leaderboard":false
+  }
