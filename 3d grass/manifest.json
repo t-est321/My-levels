@@ -1,0 +1,7 @@
+{
+  "name":"3D #00ff00d7grass",
+  "descriptions":["The background of the level looks like #00ff00d7grass"],
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":25000, "silver":50000, "gold":100000}
+}
