@@ -1,0 +1,7 @@
+{
+  "name": "#ff0000ffE#ff0040ffn#ff0080ffd #ff00c0ffO#c000fffff #8000ffffL#4000ffffi#0000fffff#0040ffffe",
+  "descriptions": ["Descend into the beautiful abyss of #ff0000ffdeath"],
+  "entry_point": "level.lua",
+  "has_score_leaderboard": true,
+  "rank_thresholds_1p": {"bronze":7500,"silver":12500,"gold":27500}
+}
