@@ -11,11 +11,11 @@ An example of `manifest.json`:
 
 Option 1:
 ```json
-"information":"Level (or enemy or background) code #00ff86fft#0c8686ffest #ffffff4a32#8080ffff1",
+"information":"Level (or enemy or background) code by #00ff86fft#0c8686ffest #ffffff4a32#8080ffff1",
 ```
  Option 2 (in case your level already includes information):
 ```json
-"information":"Your level information\nLevel (or enemy or background) code #00ff86fft#0c8686ffest #ffffff4a32#8080ffff1",
+"information":"Your level information\nLevel (or enemy or background) code by #00ff86fft#0c8686ffest #ffffff4a32#8080ffff1",
 ```
 
 These examples show only a single line.
