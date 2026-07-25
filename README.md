@@ -51,8 +51,8 @@ You must also credit me inside your level's `manifest.json` file.
 ---
 
 ## 🛠️ Contributions
-If you want to suggest updates or improvements to the code, feel free to submit a **Pull Request**.
+You are welcome to audit the code for bugs and submit a **Pull Request** with error-free file updates or improvements.
 
 ---
 
-Version of this file: `0.6.385`
+Version of this file: `0.6.386`
