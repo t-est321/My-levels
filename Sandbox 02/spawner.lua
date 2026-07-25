@@ -1,5 +1,8 @@
+local var = require("/dynamic/variables.lua")
+local pew = pewpew
+
 function spawner_new(x,y)
-  local id = pewpew.new_customizable_entity(x,y)
-  pewpew.customizable_entity_set_mesh(id,"/dynamic/spawner_graphic.lua",0)
+  local id = pew[var.entity](x,y)
+  pew[var.entity_mesh](id,var.root.."spawner_graphic"..var.file_end,0)
 end
--- var: 1
+-- var: 3
