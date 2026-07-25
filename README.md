@@ -50,4 +50,9 @@ You must also credit me inside your level's `manifest.json` file.
 
 ---
 
-Version of this file: `0.6.375`
+## 🛠️ Contributions
+If you want to suggest updates or improvements to the code, feel free to submit a **Pull Request**.
+
+---
+
+Version of this file: `0.6.385`
