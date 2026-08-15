@@ -14,6 +14,13 @@ This project, including all Lua scripts and level data, is the exclusive propert
 
 **Enforcement Notice:** If any blacklisted user is caught using my code, a copyright infringement claim or a community report will be submitted immediately to remove their level from PewPew Live.
 
+### 🔓 Exceptions
+The following levels are **fully allowed for everyone** (including blacklisted users):
+* `Fury timer`
+* `Eskiv No boxes`
+* `Particle trail`
+* `End Of Live`
+
 ---
 
 ## 📜 Licensing & Attribution Rules
@@ -52,9 +59,9 @@ You must also credit me inside your level's `manifest.json` file.
 
 ## 🛠️ Contributions
 
-* **Bug Reports:** Absolutely all users (without exception) are welcome to report errors or bugs. If you find a bug, please open an Pull Requests. *Please note: Do not suggest new ideas or features. Only actual bug reports are accepted.*
+* **Bug Reports:** Absolutely all users (without exception) are welcome to report errors or bugs. If you find a bug, please open an Issue or a Pull Request. *Please note: Do not suggest new ideas or features. Only actual bug reports are accepted.*
 * **Pull Requests:** You are welcome to audit the code for bugs and submit a Pull Request with error-free file updates or improvements.
 
 ---
 
-Version of this file: `0.6.375`
+Version of this file: `0.6.377`
