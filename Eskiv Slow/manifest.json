@@ -1,0 +1,8 @@
+{
+  "name": "#20ff75ffEskiv #ff35a4ffS#ff2975ffl#ff2344ffo#ff1f32ffw",
+  "descriptions": ["The #ff1212ffdifficulty #ffffffffincreases with #12ff12fftime"],
+  "information":"Trail = shield",
+  "entry_point": "level.lua",
+  "has_score_leaderboard": true,
+  "rank_thresholds_1p": {"bronze":3000, "silver":6000, "gold":9250}
+}
