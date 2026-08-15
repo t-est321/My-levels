@@ -1,0 +1,6 @@
+{
+  "name":"Particle trail",
+  "descriptions":[" "],
+  "entry_point":"level.lua",
+  "has_score_leaderboard":false
+}
