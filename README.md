@@ -8,9 +8,9 @@ This project, including all Lua scripts and level data, is the exclusive propert
 
 ## 🚫 Warning
 
-**Allowed only:** `mxx987` • `Hypergenus12`
+**Allowed only:** `Green Stick`
 
-**Not allowed:** `AZT786 -/>` • `JF` • `artiekra` • `SKPG-Tech` • `FLAVOUR` • `kajxqeirscl` • `MnHs` • `WinterNox` • `Tasty Kiwi` • `rally4` • `tbarkXD` • `COLORFUL` • `Flasherø` • `*Søūk*` • `tavitu` • `*UNITY*` • `glebi574` • `Krispyø` • `_=:Jarate:=_` • `ZERO` • `Momos Necto` and others.
+**Not allowed:** `AZT786 -/>` • `JF` • `artiekra` • `SKPG-Tech` • `FLAVOUR` • `kajxqeirscl` • `Hypergenus12` • `Erma` • `RATTLERPLAYE` • `Fracix` • `MnHs` • `WinterNox` • `Tasty Kiwi` • `rally4` • `tbarkXD` • `COLORFUL` • `Flasherø` • `*Søūk*` • `tavitu` • `*UNITY*` • `glebi574` • `Krispyø` • `_=:Jarate:=_` • `ZERO` • `Momos Necto` • `_BasedXSasha` • `kernelitt` • `arjunbroepic` • `yFIRE` • `FracixPL` • `Nix :D` • `neoncube` • `Foch` • `Arhip` • `Kira` • `myself` • `ZAPODA`
 
 **Enforcement Notice:** If any blacklisted user is caught using my code, a copyright infringement claim or a community report will be submitted immediately to remove their level from PewPew Live.
 
@@ -51,8 +51,10 @@ You must also credit me inside your level's `manifest.json` file.
 ---
 
 ## 🛠️ Contributions
-You are welcome to audit the code for bugs and submit a **Pull Request** with error-free file updates or improvements.
+
+* **Bug Reports:** Absolutely all users (without exception) are welcome to report errors or bugs. If you find a bug, please open an Pull Requests. *Please note: Do not suggest new ideas or features. Only actual bug reports are accepted.*
+* **Pull Requests:** You are welcome to audit the code for bugs and submit a Pull Request with error-free file updates or improvements.
 
 ---
 
-Version of this file: `0.6.386`
+Version of this file: `0.6.375`
