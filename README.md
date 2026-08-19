@@ -45,12 +45,12 @@ You must also credit me inside your level's `manifest.json` file.
 
 **Option 1:**
 ```json
-"information": "Level (or enemy or background) code by #00ff86fft#0c8686ffest #ffffff4a32#8080ffff1"
+"information": "Level (or enemy or background) code by #00ff80fft#008080ffest #404040ff32#8080ffff1"
 ```
 
 **Option 2** (if your level already contains an information field):
 ```json
-"information": "Your level information\nLevel (or enemy or background) code by #00ff86fft#0c8686ffest #ffffff4a32#8080ffff1"
+"information": "Your level information\nLevel (or enemy or background) code by #00ff80fft#008080ffest #404040ff32#8080ffff1"
 ```
 
 *Note: These examples show only the specific line to be added.*
@@ -64,4 +64,4 @@ You must also credit me inside your level's `manifest.json` file.
 
 ---
 
-Version of this file: `0.6.377`
+Version of this file: `0.6.378`
