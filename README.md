@@ -8,9 +8,9 @@ This project, including all Lua scripts and level data, is the exclusive propert
 
 ## 🚫 Warning
 
-**Allowed only:** `Green Stick`
+**Allowed only:** `kernelitt` • `Green Stick`
 
-**Not allowed:** `AZT786 -/>` • `JF` • `artiekra` • `SKPG-Tech` • `FLAVOUR` • `kajxqeirscl` • `Hypergenus12` • `Erma` • `RATTLERPLAYE` • `Fracix` • `MnHs` • `WinterNox` • `Tasty Kiwi` • `rally4` • `tbarkXD` • `COLORFUL` • `Flasherø` • `*Søūk*` • `tavitu` • `*UNITY*` • `glebi574` • `Krispyø` • `_=:Jarate:=_` • `ZERO` • `Momos Necto` • `_BasedXSasha` • `kernelitt` • `arjunbroepic` • `yFIRE` • `FracixPL` • `Nix :D` • `neoncube` • `Foch` • `Arhip` • `Kira` • `myself` • `ZAPODA`
+**Not allowed:** `AZT786 -/>` • `JF` • `artiekra` • `SKPG-Tech` • `FLAVOUR` • `kajxqeirscl` • `Hypergenus12` • `Erma` • `RATTLERPLAYE` • `Fracix` • `MnHs` • `WinterNox` • `Tasty Kiwi` • `rally4` • `tbarkXD` • `COLORFUL` • `Flasherø` • `*Søūk*` • `tavitu` • `*UNITY*` • `glebi574` • `Krispyø` • `_=:Jarate:=_` • `ZERO` • `Momos Necto` • `_BasedXSasha` • `arjunbroepic` • `yFIRE` • `FracixPL` • `Nix :D` • `neoncube` • `Foch` • `Arhip` • `Kira` • `myself` • `ZAPODA`
 
 **Enforcement Notice:** If any blacklisted user is caught using my code, a copyright infringement claim or a community report will be submitted immediately to remove their level from PewPew Live.
 
@@ -64,4 +64,4 @@ You must also credit me inside your level's `manifest.json` file.
 
 ---
 
-Version of this file: `0.6.378`
+Version of this file: `0.6.379`
