@@ -20,6 +20,7 @@ The following levels are **fully allowed for everyone** (including blacklisted u
 * `Eskiv No boxes`
 * `Particle trail`
 * `End Of Live`
+* `big level`
 
 ---
 
@@ -64,4 +65,4 @@ You must also credit me inside your level's `manifest.json` file.
 
 ---
 
-Version of this file: `0.6.379`
+Version of this file: `0.6.380`
