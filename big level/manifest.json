@@ -1,0 +1,7 @@
+{
+  "name":"Big level",
+  "descriptions":["This level is really big"],
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":35750, "silver":71850, "gold":125000}
+}
