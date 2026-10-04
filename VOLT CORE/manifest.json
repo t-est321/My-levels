@@ -1,0 +1,8 @@
+{
+  "name": "VOLT CORE",
+  "descriptions": ["A three phase boss fight. Break the shield orbs, then destroy the core."],
+  "information": "Phase 1: destroy the 3 shield orbs orbiting the core. Phase 2: the core calls kamikaze reinforcements. Phase 3: dodge the expanding shockwave rings. Destroying the core grants 256 pointonium.",
+  "entry_point": "level.lua",
+  "has_score_leaderboard": true,
+  "rank_thresholds_1p": {"bronze": 4000, "silver": 6500, "gold": 9000}
+}
