@@ -14,7 +14,10 @@ This project, including all Lua scripts and level data, is the exclusive propert
 
 **Enforcement Notice:** If any blacklisted user is caught using my code, a copyright infringement claim or a community report will be submitted immediately to remove their level from PewPew Live.
 
-### 🔓 Exceptions
+---
+
+## 🔓 Exceptions
+
 The following levels are **fully allowed for everyone** (including blacklisted users):
 * `Fury timer`
 * `Eskiv No boxes`
@@ -23,6 +26,8 @@ The following levels are **fully allowed for everyone** (including blacklisted u
 * `big level`
 * `Tutorial 2`
 * `Asteroidception`
+* `asterfury`
+* `VOLT CORE`
 
 ---
 
@@ -67,4 +72,4 @@ You must also credit me inside your level's `manifest.json` file.
 
 ---
 
-Version of this file: `0.6.382`
+Version of this file: `0.6.390`
