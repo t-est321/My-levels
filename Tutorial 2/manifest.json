@@ -1,0 +1,7 @@
+{
+  "name":"Tutoral #ff0000ff2",
+  "descriptions":["The tutorial #ff0000ff2"],
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":900, "silver":1024, "gold":1496}
+}
