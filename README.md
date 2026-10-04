@@ -21,6 +21,7 @@ The following levels are **fully allowed for everyone** (including blacklisted u
 * `Particle trail`
 * `End Of Live`
 * `big level`
+* `Tutorial 2`
 
 ---
 
@@ -65,4 +66,4 @@ You must also credit me inside your level's `manifest.json` file.
 
 ---
 
-Version of this file: `0.6.380`
+Version of this file: `0.6.381`
