@@ -1,0 +1,9 @@
+{
+    "name":"#0000ffffGo down",
+    "descriptions":["Test level 001"],
+  "information":"My first level",
+    "entry_point":"level.lua",
+    "has_score_leaderboard":true,
+    "rank_thresholds_1p":{"bronze":2184, "silver":5128, "gold":17956}
+  }
+  
