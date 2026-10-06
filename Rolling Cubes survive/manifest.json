@@ -1,0 +1,7 @@
+{
+    "name":"#afea21ffRolling Cubes #ff2520ffsurvive",
+    "descriptions":["Can you survive in #ff0000ff7 #ffffffffminutes?"],
+    "entry_point":"level.lua",
+    "has_score_leaderboard":true,
+    "rank_thresholds_1p":{"bronze":10000, "silver":20000, "gold":26500}
+  }
