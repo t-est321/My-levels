@@ -28,6 +28,9 @@ The following levels are **fully allowed for everyone** (including blacklisted u
 * `Asteroidception`
 * `asterfury`
 * `VOLT CORE`
+* `Rolling Cubes survive`
+* `CRASBAFWARCUBE`
+* `Go down`
 
 ---
 
@@ -72,4 +75,4 @@ You must also credit me inside your level's `manifest.json` file.
 
 ---
 
-Version of this file: `0.6.390`
+Version of this file: `0.6.395`
