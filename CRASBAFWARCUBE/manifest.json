@@ -1,0 +1,8 @@
+{
+  "name": "#ff00ffffCR#ffffffffAS#ffff00ffBAF#9900ffffWAR#ffff99ffCUBE",
+  "descriptions": ["Also play #ff00ffffCR#ffffffffAS#ffff00ffBAF"],
+  "information":"Thanks #ff99ffffe#ff00ffffm#ff9999ffi#ff0000ffm#ff000099i#ffffffff for name of the level :3",
+  "entry_point": "level.lua",
+  "has_score_leaderboard": true,
+  "rank_thresholds_1p": {"bronze":15000, "silver":35000, "gold":50000}
+}
