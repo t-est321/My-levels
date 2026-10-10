@@ -31,6 +31,7 @@ The following levels are **fully allowed for everyone** (including blacklisted u
 * `Rolling Cubes survive`
 * `CRASBAFWARCUBE`
 * `Go down`
+* Folder: `Examples code`
 
 ---
 
@@ -75,4 +76,4 @@ You must also credit me inside your level's `manifest.json` file.
 
 ---
 
-Version of this file: `0.6.395`
+Version of this file: `0.6.397`
