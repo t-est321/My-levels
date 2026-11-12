@@ -1,0 +1,8 @@
+{
+  "name":"#00ffffffNeon Vortex",
+  "descriptions":["Survive the waves. Lure enemies into the vortex before it pulses."],
+  "information":"The vortex atomizes enemies near the center every 10 seconds. Waves arrive every 8 seconds and grow stronger.",
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":1500,"silver":4000,"gold":10000}
+}
