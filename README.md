@@ -22,7 +22,7 @@ The following levels are **fully allowed for everyone** (including blacklisted u
 * `Fury timer`
 * `Eskiv No boxes`
 * `Particle trail`
-* `End Of Live`
+* `End Of Life`
 * `big level`
 * `Tutorial 2`
 * `Asteroidception`
@@ -78,4 +78,4 @@ You must also credit me inside your level's `manifest.json` file.
 
 ---
 
-Version of this file: `0.6.400`
+Version of this file: `0.6.401`
