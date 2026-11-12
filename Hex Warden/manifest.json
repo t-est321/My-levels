@@ -1,0 +1,8 @@
+{
+  "name":"#ff00ffffHex Warden",
+  "descriptions":["A three-phase boss fight. Dodge the spirals, break the rings, survive the final barrage."],
+  "information":"The Warden changes attack patterns at 300 and 150 HP. Aimed shots track your ship; rings and spirals fill the arena.",
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":2000,"silver":6000,"gold":12000}
+}
