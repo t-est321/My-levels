@@ -1,0 +1,14 @@
+{
+  "name": "PROGRESSBAR 95",
+  "descriptions": [
+    "Catch falling segments, fill a 20 cell progress bar and purge hostile desktop software across 40 levels and four bosses"
+  ],
+  "information": "#22d3eeffPROGRESSBAR 95#ffffffff\nMove stick steers the bar. The shoot stick is your only button.\nUp Scan  Right Firewall  Down Defrag  Left Slow\n#2f7bffffBlue#ffffffff fills, #ffc400ffyellow#ffffffff corrupts, #ff6fb0ffpink#ffffffff removes, #ff3b5cffred#ffffffff kills, #33ff88ffgreen#ffffffff wins. Fill 20 cells.",
+  "entry_point": "level.lua",
+  "has_score_leaderboard": true,
+  "rank_thresholds_1p": {
+    "bronze": 2500,
+    "silver": 7500,
+    "gold": 18000
+  }
+}
