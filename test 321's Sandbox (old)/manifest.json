@@ -1,0 +1,6 @@
+{
+  "name":"#00ff86fft#0c8686ffest #ffffff4a32#8080ffff1#ffffffff's Sandbox",
+  "descriptions":["Restart button for a random level"],
+  "entry_point":"level.lua",
+  "has_score_leaderboard":false
+}
