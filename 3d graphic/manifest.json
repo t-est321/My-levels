@@ -1,0 +1,7 @@
+{
+  "name":"3d graphic",
+  "descriptions":["Classic/Sample #ff2323ff3#23ff23ffd"],
+  "entry_point":"level.lua",
+  "has_score_leaderboard":true,
+  "rank_thresholds_1p":{"bronze":12500, "silver":30000, "gold":55250}
+}
