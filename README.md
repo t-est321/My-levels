@@ -1,6 +1,8 @@
 # PewPew Live: My Custom Lua Levels
 
-> There will be more of my levels coming soon!
+> An archive of my old levels is coming soon!
+
+Note: *The level **Maze Generator** is protected by copyright and therefore is not available in this GitHub repository.*
 
 This project, including all Lua scripts and level data, is the exclusive property of `t-est321`. 
 
@@ -10,7 +12,9 @@ This project, including all Lua scripts and level data, is the exclusive propert
 
 **Allowed only:** `kernelitt` • `Green Stick` • `Hypergenus12`
 
-**Not allowed:** `AZT786 -/>` • `JF` • `artiekra` • `SKPG-Tech` • `FLAVOUR` • `kajzeir` • `Erma` • `RATTLERPLAYE` • `Fracix` • `MnHs` • `WinterNox` • `Tasty Kiwi` • `rally4` • `tbarkXD` • `COLORFUL` • `Flasherø` • `*Søūk*` • `tavitu` • `*UNITY*` • `glebi574` • `Krispyø` • `_=:Jarate:=_` • `ZERO` • `Momos Necto` • `_BasedXSasha` • `arjunbroepic` • `yFIRE` • `FracixPL` • `Nix :D` • `neoncube` • `Foch` • `Arhip` • `Kira` • `myself` • `ZAPODA`
+**Not allowed:** 
+* **First-time level creators** (any user creating their very first level is automatically blacklisted)
+* **Specific users:** `AZT786 -/>` • `JF` • `artiekra` • `SKPG-Tech` • `FLAVOUR` • `kajzeir` • `Erma` • `RATTLERPLAYE` • `Fracix` • `MnHs` • `WinterNox` • `Tasty Kiwi` • `rally4` • `tbarkXD` • `COLORFUL` • `Flasherø` • `*Søūk*` • `tavitu` • `*UNITY*` • `glebi574` • `Krispyø` • `_=:Jarate:=_` • `ZERO` • `Momos Necto` • `_BasedXSasha` • `arjunbroepic` • `yFIRE` • `FracixPL` • `Nix :D` • `neoncube` • `Foch` • `Arhip` • `Kira` • `myself` • `ZAPODA`
 
 **Enforcement Notice:** If any blacklisted user is caught using my code, a copyright infringement claim or a community report will be submitted immediately to remove their level from PewPew Live.
 
@@ -18,7 +22,7 @@ This project, including all Lua scripts and level data, is the exclusive propert
 
 ## 🔓 Exceptions
 
-The following levels are **fully allowed for everyone** (including blacklisted users):
+The following **22 levels** (and 1 code folder) are **fully allowed for everyone** (including blacklisted users and first-time creators):
 * `Fury timer`
 * `Eskiv No boxes`
 * `Particle trail`
@@ -37,13 +41,17 @@ The following levels are **fully allowed for everyone** (including blacklisted u
 * `Sandbox 01`
 * `Sandbox 01 - Debug`
 * `Sandbox 02`
+* `3d graphic`
+* `Eskiv Core Waves`
+* `test 321's Sandbox`
+* `Waves x Eskiv`
 * Folder: `Examples code`
 
 ---
 
 ## 📜 Licensing & Attribution Rules
 
-You are free to use the code from these levels for educational purposes or as a reference for your own projects. However, if you use this code in your level, you must fulfill the following two requirements:
+You are free to use the code from these levels for educational purposes or as a reference for your own projects. **However, you are strictly limited to using a maximum of 1–2 entire files per project.** In addition, if you use this code in your level, you must fulfill the following two requirements:
 
 ### 1. Lua File Comment
 You must add a comment at the top of your `.lua` script file:
@@ -51,7 +59,7 @@ You must add a comment at the top of your `.lua` script file:
   ```lua
   -- code by test 321
   ```
-* If you used the entire file as a base:
+* If you used an entire file as a base **(maximum 1–2 files allowed)**:
   ```lua
   -- file by test 321
   ```
@@ -82,4 +90,4 @@ You must also credit me inside your level's `manifest.json` file.
 
 ---
 
-Version of this file: `0.6.402`
+Version of this file: `0.7.005`
